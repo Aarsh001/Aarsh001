@@ -47,6 +47,7 @@
 <a href="mailto:as6014@srmist.edu.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/aarsh.sapra/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://aarshsapratechblogs.blogspot.com//"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
+<a href="https://public.tableau.com/app/profile/aarsh.sapra"><img src="https://img.shields.io/badge/-Tableau-blueviolet"/></a>
 
 </p>
 

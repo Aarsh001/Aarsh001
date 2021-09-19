@@ -20,7 +20,7 @@
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Tableau](https://drive.google.com/file/d/1pxAvDO8UtWBhE__snCv1U8SJC42YbXoo/view?usp=sharing)&nbsp;
+![Tableau](https://img.shields.io/badge/-Tableau-blueviolet)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -47,11 +47,14 @@
 <a href="mailto:as6014@srmist.edu.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/aarsh.sapra/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://aarshsapratechblogs.blogspot.com//"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
-<a href="https://public.tableau.com/app/profile/aarsh.sapra"><img src="https://forthebadge.com/generator/?plabel=BI+Tool&slabel=Tableau"/></a>
+
 
 </p>
 
-
+### 🤝🏻 &nbsp;Check my work on
+<p align="center">
+<a href="https://public.tableau.com/app/profile/aarsh.sapra"><img src="https://img.shields.io/badge/-Tableau-blueviolet"/></a>
+</p>
 
 <!--### Hi there 👋,
 My name is Aarsh Sapra, currently a third year student pursuing B.Tech from SRM Institute of Science and Technology in the field of Computer Science. I am really inclined towards the industry of business and data analytics. I am working towards building my portfolio as a data analyst by constantly improving my visualization and technical skills.

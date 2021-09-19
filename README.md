@@ -35,9 +35,8 @@
 </p>
 <p align="left">
 <a href="https://github.com/Aarsh001">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aarsh001&&show_icons=true&title_color=700ef0&icon_color=ed051c&text_color=000000&bg_color=ffffff">
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ac5865&layout=compact)](https://github.com/Aarsh001/github-readme-stats)
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aarsh001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aarsh001&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 

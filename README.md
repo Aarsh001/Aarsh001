@@ -12,7 +12,7 @@
 ✉️ &nbsp;You can shoot me an email at as6014@srmist.edu.in! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1Ohy8rzRglLTw58HtfjuQZTIXAl2eqUa2/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://fuertedevelopers.com/assets/img/Dataanalysis.gif" align="right"/>
+<img alt="Night Coding" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
